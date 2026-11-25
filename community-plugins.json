@@ -76116,5 +76116,12 @@
     "author": "sideswipe",
     "description": "Collapsible side panel for filling in hacking/security variable values (LHOST, RHOST, passwords, hashes …) that are live-substituted inside code blocks in Reading View. Copy buttons paste the real values, not the placeholders. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sideswipeishacking/redvars"
+  },
+  {
+    "id": "password-kanban",
+    "name": "Password Kanban",
+    "author": "Yurden-MSKV",
+    "description": "An encrypted Kanban-style password manager with search, password generation, bilingual UI, and auto-lock.",
+    "repo": "Yurden-MSKV/obsidian-password-kanban"
   }
 ]
